@@ -29,5 +29,5 @@ repositories {
 
 dependencies {
     // OpenICE-lite Core
-    implementation 'com.github.samdware:openice-lite:v0.1.3'
+    implementation 'com.github.samdware:openice-lite:v0.1.4'
 }
